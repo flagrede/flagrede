@@ -5,4 +5,3 @@
 - 📝 I write articles here: https://dev.to/flagrede
 - 📫 How to reach me: https://twitter.com/flagrede
 - 🔭 Personal project: http://gameuionweb.com/ 
-- 😄 Pronouns: he/him
