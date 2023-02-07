@@ -40,3 +40,7 @@
 ![rust](https://img.shields.io/badge/Rust-black?style=for-the-badge&logo=rust)
 ![react-three-fiber](https://img.shields.io/badge/React%20Three%20Fiber-black?style=for-the-badge&logo=react)
 ![threejs](https://img.shields.io/badge/Threejs-black?style=for-the-badge&logo=three.js)
+
+
+## Github stats
+![flagrede's GitHub stats](https://github-readme-stats.vercel.app/api?username=flagrede&show_icons=true&theme=tokyonight)
