@@ -7,6 +7,7 @@
   <p>Hi there! 👋</p>
   
   <p>I'm a freelance Front-End Developer based in 🇫🇷</p>
+  <p>I strive to build high-quality user interfaces with both UX and DX in mind.</p>
   <p>Currently working in the <a href="https://cosmos.network">Cosmos</a> space at <a href="https://www.regen.network">Regen Network</a></p>
 </div>
 
