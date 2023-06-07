@@ -14,11 +14,13 @@
 ## My Job
 
 ![react](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react)
+![nextjs](https://img.shields.io/badge/Nextjs-black?style=for-the-badge&logo=next.js)
 ![typescript](https://img.shields.io/badge/TypeScript-black?style=for-the-badge&logo=typescript)
 ![graphql](https://img.shields.io/badge/Graphql-black?style=for-the-badge&logo=graphql&logoColor=FF4154)
 ![React Query](https://img.shields.io/badge/-React%20Query-black?style=for-the-badge&logo=react%20query&logoColor=FF4154)
 ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-black.svg?style=for-the-badge&logo=reacthookform&logoColor=23EC5990)
 ![MUI](https://img.shields.io/badge/MUI-black.svg?style=for-the-badge&logo=mui)
+![tailwindcss](https://img.shields.io/badge/TailwindCSS-black?style=for-the-badge&logo=tailwindcss)
 
 <div align="center">
   <br /><br />
@@ -32,10 +34,6 @@
 
   <br /><br />
 </div>
-
-## Technologies that I have also used extensively in the past
-![nextjs](https://img.shields.io/badge/Nextjs-black?style=for-the-badge&logo=next.js)
-![tailwindcss](https://img.shields.io/badge/TailwindCSS-black?style=for-the-badge&logo=tailwindcss)
 
 ## Technologies that I'm playing with on the side
 ![rust](https://img.shields.io/badge/Rust-black?style=for-the-badge&logo=rust)
