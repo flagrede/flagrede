@@ -8,29 +8,25 @@
   
   <p>I'm a freelance Front-End Developer based in 🇫🇷</p>
   <p>I strive to build high-quality user interfaces with both UX and DX in mind.</p>
-  <p>Currently working in the <a href="https://cosmos.network">Cosmos</a> space at <a href="https://www.regen.network">Regen Network</a></p>
+  <p>Currently working on <a href="https://www.depthtale.com/">Depth Tale</a></p>
 </div>
 
-## My Job
+## About Depth Tale
 
 ![react](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react)
 ![nextjs](https://img.shields.io/badge/Nextjs-black?style=for-the-badge&logo=next.js)
 ![typescript](https://img.shields.io/badge/TypeScript-black?style=for-the-badge&logo=typescript)
-![graphql](https://img.shields.io/badge/Graphql-black?style=for-the-badge&logo=graphql&logoColor=FF4154)
-![React Query](https://img.shields.io/badge/-React%20Query-black?style=for-the-badge&logo=react%20query&logoColor=FF4154)
-![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-black.svg?style=for-the-badge&logo=reacthookform&logoColor=23EC5990)
-![MUI](https://img.shields.io/badge/MUI-black.svg?style=for-the-badge&logo=mui)
 ![tailwindcss](https://img.shields.io/badge/TailwindCSS-black?style=for-the-badge&logo=tailwindcss)
 
 <div align="center">
   <br /><br />
-  <a href="https://www.regen.network/">
-    <img algin="center" src="https://user-images.githubusercontent.com/530644/216629986-86e375a1-1cd9-402b-99ce-5b4458db4f71.jpg" />
+  <a href="https://www.depthtale.com/">
+    <img algin="center" src="https://github.com/flagrede/flagrede/assets/530644/94f2581d-8694-4104-adba-12603496ad18" />
   </a>
 
   <br /><br />
 
-  <p>Regen Network, an all-in-one science-powered platform that connects investors and buyers to a growing pipeline of premier-quality ecological impact projects.</p>
+  <p>Depth Tale, a modern interactive story builder for generative AI assets.</p>
 
   <br /><br />
 </div>
